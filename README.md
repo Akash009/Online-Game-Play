@@ -10,6 +10,8 @@ create table gameplay(
     score int,
     rank int
 );
+
+
 insert into gameplay values(1,"Player1",4000,100);
 insert into gameplay values(2,"Player2",3800,200);
 insert into gameplay values(3,"Player3",3500,300);
