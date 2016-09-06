@@ -1,5 +1,4 @@
 # Online-Game-Play
-I've use Mysql As a database
 
 Here is My Table to store the players record:
 
